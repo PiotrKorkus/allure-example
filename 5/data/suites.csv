@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Thu May 22 06:46:27 GMT 2025","Thu May 22 06:46:27 GMT 2025","1","tests.integration","test_int_one","","","","test_failure",""
+"skipped","Thu May 22 06:46:28 GMT 2025","Thu May 22 06:46:28 GMT 2025","0","tests.integration","test_int_one","","","","test_xfailure",""
+"passed","Thu May 22 06:46:27 GMT 2025","Thu May 22 06:46:27 GMT 2025","0","tests.integration","test_int_one","","","","test_success","_summary_
+    Args:
+        fixture_integration (_type_): _description_
+    "
